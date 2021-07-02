@@ -9,7 +9,7 @@ This is an English Runes keyboard layout for Windows and macOS, originally desig
 
 ### macOS
 1. Download the contents of the `macos` folder.
-2. Copy both `English Runes.keylayout` and `English Runes.icns` to your `~/Library/Keyboard Layouts` directory. 
+2. Copy both `English Runes.keylayout` and `English Runes.icns` (dark mode icon only) to your `~/Library/Keyboard Layouts` directory. 
 
 ## Layout
 - Hold `Shift` to type the letters in the top-left corner.
